@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Mayuresh!
 
-<!--
-**MayuR45-pro/MayuR45-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Engineering Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an engineering student passionate about programming, problem-solving, and building practical software projects. I'm continuously learning new technologies and improving my development skills.
+
+### 💻 Technologies & Tools
+- 🐍 Python
+- ⚙️ C and C++ (as I learn them)
+- 🔧 Git and GitHub
+- 💻 Visual Studio Code
+
+### 🚀 Projects
+- 🕒 Python Alarm Clock
+- ♟️ Chess Game using Python and Pygame
+- 💡 More projects coming soon!
+
+### 🎯 My Goals
+- Strengthen my programming fundamentals.
+- Build useful and practical projects.
+- Improve my problem-solving skills.
+- Explore open-source development.
+
+### 📫 Connect With Me
+- GitHub: [@MayuR45-pro](https://github.com/MayuR45-pro)
+
+---
+
+⭐ Thanks for visiting my profile!
